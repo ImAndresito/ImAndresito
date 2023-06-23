@@ -15,7 +15,7 @@
  </li>
 
 
-<div class="container" style="display:flex;"><h2>My main skills are:</h2>
+<div class="container" style="color:red;"><h2>My main skills are:</h2>
 <ul>
  <li>
    HTML
