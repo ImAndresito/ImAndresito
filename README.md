@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development ...
 - 🌱 I’m currently learning ...
 
-<h1>I can talk, write and read in:</h1>
+<h1>I can talk, write and read in: 🗣️</h1>
 <ul>
  <li>
    Spanish (Native language)
@@ -15,7 +15,7 @@
  </li>
 
 
-<div class="container" style="color:red;"><h2>My main skills are:</h2>
+<div><h2>My main skills are: 💻</h2>
 <ul>
  <li>
    HTML
