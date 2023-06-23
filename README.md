@@ -21,10 +21,10 @@
  </li>
 </ul>
 
-<h1>I've also basic knowledge of:</h1>
+<h2>I've basic knowledge of:</h2>
 <ul>
  <li>
-   JavaScipt
+   JavaScipt 
  </li>
    <li>
    Java
