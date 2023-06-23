@@ -2,7 +2,20 @@
 - 👀 I’m interested in Web development ...
 - 🌱 I’m currently learning ...
 
-<h1>My main skills are:</h1>
+<h1>I can talk and read in:</h1>
+<ul>
+ <li>
+   Spanish (Native language)
+ </li>
+   <li>
+   Italian (Mother toungue)
+ </li>
+   <li>
+   English (Medium level)
+ </li>
+
+
+<h2>My main skills are:</h2>
 <ul>
  <li>
    HTML
@@ -21,7 +34,7 @@
  </li>
 </ul>
 
-<h2>I've basic knowledge of:</h2>
+<h3>I've basic knowledge of:</h3>
 <ul>
  <li>
    JavaScipt 
