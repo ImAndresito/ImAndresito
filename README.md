@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andres, a <b>Junior Developer</b>
+<h1👋 Hi, I’m Andres, a <b>Junior Developer</b> </h1>
 
-<h1>🗣️I can talk, write and read in:</h1>
+<h3>🗣️I can talk, write and read in:</h3>
 <ul>
  <li>
    Spanish (Native language)
