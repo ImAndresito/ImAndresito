@@ -13,7 +13,8 @@
  </li>
 
 
-<div><h2>💻My main skills are:</h2>
+<div>
+ <h3>💻My main skills are:</h3>
 <ul>
  <li>
    Angular
