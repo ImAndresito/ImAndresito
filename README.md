@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ImAndresito
-- 👀 I’m interested in Web development ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Andres, a <b>Junior Developer</b>
 
 <h1>🗣️I can talk, write and read in:</h1>
 <ul>
