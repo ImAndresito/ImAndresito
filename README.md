@@ -11,7 +11,7 @@
    Italian (Mother toungue)
  </li>
    <li>
-   English (Medium level)
+   English (Speaking - B2, Writing - B2)
  </li>
 
 
