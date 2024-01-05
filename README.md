@@ -18,37 +18,22 @@
 <div><h2>💻My main skills are:</h2>
 <ul>
  <li>
-   HTML
+   Angular
  </li>
    <li>
-   CSS
+   Java - SpringBoot
+ </li>
+  <li>
+   Bootstrap
  </li>
    <li>
    Photoshop
  </li>
+      <li>
+   Figma
+ </li>
    <li>
    Illustrator
  </li>
-     <li>
-   Figma
- </li>
 </ul>
-
-<h3>I've basic knowledge of:</h3>
-<ul>
- <li>
-   JavaScipt 
- </li>
-   <li>
-   Java
- </li>
-   <li>
-   SQL
- </li>
-   <li>
-   Adobe Premiere
- </li>
-     <li>
-   Office package 
- </li>
-</ul></div>
+</div>
