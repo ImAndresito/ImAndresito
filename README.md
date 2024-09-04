@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
 <h3 align="center">A passionate junior full stack developer</h3>
 
-- 🔭 I’m currently working on [Angular-Gestionale](https://github.com/ImAndresito/Angular-Gestionale)
-
 - 🌱 I’m currently learning **Angular + SpringBoot**
-
-- 👨‍💻 All of my projects are available at [https://imandresito.github.io/](https://imandresito.github.io/)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
