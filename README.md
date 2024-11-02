@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
 <h3 align="center">A passionate junior full stack developer</h3>
 
-- 🌱 I’m currently learning **Angular + SpringBoot**
+- 🌱 Currently learning **Angular + SpringBoot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
