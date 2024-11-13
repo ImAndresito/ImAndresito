@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
-<h3 align="center">A passionate junior full stack developer</h3>
+<h3 align="center">A junior full stack developer</h3>
 
 - 🌱 Currently learning **Angular + SpringBoot**
 
