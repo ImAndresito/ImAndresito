@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
 <h3 align="center">A junior full stack developer</h3>
 
-- 🌱 Currently learning **React** and **Angular**
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div>
